@@ -5,6 +5,6 @@ function paragraphSelector(){
 }
 
 function lastImageSelector(){
-  let images = $('img')
-  return images.pop()
+  let images = $('img:last')
+  return images
 }
