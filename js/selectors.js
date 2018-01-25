@@ -9,3 +9,6 @@ function lastImageSelector(){
   return images
 }
 
+function ninjaBabySelector(){
+  let ninjaBaby = ()
+}
