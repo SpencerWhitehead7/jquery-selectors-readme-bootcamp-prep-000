@@ -8,3 +8,4 @@ function lastImageSelector(){
   let images = $('img:last')
   return images
 }
+
