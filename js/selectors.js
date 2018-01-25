@@ -4,4 +4,6 @@ function paragraphSelector(){
   return paragraphs
 }
 
-function 
+function lastImageSelector(){
+  let images = $()
+}
