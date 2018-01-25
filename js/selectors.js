@@ -10,6 +10,6 @@ function lastImageSelector(){
 }
 
 function ninjaBabySelector(){
-  let ninjaBaby = ('#baby-ninja')
+  let ninjaBaby = $('#baby-ninja')
   return ninjaBaby
 }
