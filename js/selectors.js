@@ -6,6 +6,5 @@ function paragraphSelector(){
 
 function lastImageSelector(){
   let images = $('img')
-  result = images.pop
-  return images.pop
+  return images.pop()
 }
